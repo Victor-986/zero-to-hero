@@ -1,3 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+data/
+*.pt
+*.pth
+*.wav
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
