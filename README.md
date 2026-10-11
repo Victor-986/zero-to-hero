@@ -44,12 +44,12 @@ Only what micrograd needs. Everything else is learned just in time later.
 - [x] Turn off Copilot and AI suggestions for this repo
 
 ### Python refresh (AI off)
-- [ ] Write a `Value` class that holds a number
-  - [ ] `__init__`
-  - [ ] `__repr__`
-  - [ ] `__add__`
-  - [ ] `__mul__`
-  - [ ] `Value(2) * Value(3) + Value(1)` prints correctly
+- [x] Write a `Value` class that holds a number
+  - [x] `__init__`
+  - [x] `__repr__`
+  - [x] `__add__`
+  - [x] `__mul__`
+  - [x] `Value(2) * Value(3) + Value(1)` prints correctly
 - [ ] Write a closure (counter function that remembers its state)
 - [ ] Use a lambda as a sort key
 - [ ] Rewrite 3-4 old `for` loops as list/dict comprehensions
